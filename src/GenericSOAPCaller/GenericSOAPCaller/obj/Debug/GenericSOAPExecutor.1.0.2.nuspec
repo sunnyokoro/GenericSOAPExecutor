@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GenericSOAPExecutor</id>
+    <version>1.0.2</version>
+    <authors>Okoro Sunday Awa</authors>
+    <owners>Okoro Sunday Awa</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/sunnyokoro/GenericSOAPExecutor</projectUrl>
+    <iconUrl>https://optimusinfo-wpengine.netdna-ssl.com/wp-content/uploads/2015/02/API-icon.png</iconUrl>
+    <description>A .Net Core library that executes SOAP service calls using REST SHARP and maps the result to your generic object.</description>
+    <tags>Generic, SpacInfotech, Sunday Okoro, .NetCore, SOAP, Caller, Executetor</tags>
+    <repository url="https://github.com/sunnyokoro/GenericSOAPExecutor" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.2">
+        <dependency id="RestSharp" version="106.6.10" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\HP\source\repos\GenericSOAPExecutor\src\GenericSOAPCaller\GenericSOAPCaller\bin\Debug\netcoreapp2.2\GenericSOAPCaller.dll" target="lib\netcoreapp2.2\GenericSOAPCaller.dll" />
+  </files>
+</package>

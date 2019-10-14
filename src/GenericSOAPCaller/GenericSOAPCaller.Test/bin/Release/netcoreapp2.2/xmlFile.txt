@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:dr="dr.ecobank.com">
+   <soapenv:Header>
+      <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+  <wsu:Timestamp>
+    <wsu:Created>2019-10-06T04:35:53.13Z</wsu:Created>
+    <wsu:Expires>2019-10-06T04:40:53.13Z</wsu:Expires>
+  </wsu:Timestamp>
+  <wsse:UsernameToken>
+    <wsse:Username>ACCESSAFRICA</wsse:Username>
+    <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-tokenprofile-1.0##PasswordDigest">F1o9c6lvqjcaHskeBE8dqbgqpUA=</wsse:Password>
+    <wsse:Nonce EncodingType="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-soap-message-security-1.0#Base64Binary">ZjE0YjU4YTUtNzg2ZS00OTMzLTgzNDAtN2MzZjVkMjEwMmQ4</wsse:Nonce>
+    <wsu:Created>2019-10-06T04:35:53.13Z</wsu:Created>
+  </wsse:UsernameToken>
+</wsse:Security>
+   </soapenv:Header>
+   <soapenv:Body>
+      <dr:GetStatus>
+      	 <dr:ProductCode>MMOMOCR</dr:ProductCode>
+         <dr:TransactionRef>MMOMOCR1909309030275</dr:TransactionRef>
+         <dr:ChannelRef>0123456789we</dr:ChannelRef>
+         <dr:node>PARTNER</dr:node>
+      </dr:GetStatus>
+   </soapenv:Body>
+</soapenv:Envelope>

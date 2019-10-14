@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"> 
+  <Product> 
+    <Sections> 
+      <Section Name="1">
+        <Headers>
+          <Header PropertyName="P1" ClassName="C1">T1</Header>
+          <Header PropertyName="P2" ClassName="C2">T2</Header>
+          <Header xsi:nil="true" />
+        </Headers>
+      </Section>
+      <Section Name="2">
+        <Headers>
+          <Header PropertyName="P1" ClassName="C1">T1</Header>
+          <Header PropertyName="P2" ClassName="C2">T2</Header>
+          <Header xsi:nil="true" />
+        </Headers>
+      </Section>
+      <Section xsi:nil="true" />
+    </Sections>
+  </Product>
+</ArrayOfProduct>

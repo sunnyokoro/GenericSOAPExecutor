@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <Company>SpacInfotech Services Limited</Company>
+    <Authors>Okoro Sunday Awa</Authors>
+    <PackageId>GenericSOAPExecutor</PackageId>
+    <Product>GenericSOAPExecutor</Product>
+    <Description>A .Net Core library that executes SOAP service calls using REST SHARP and maps the result to your generic object.</Description>
+    <RepositoryUrl>https://github.com/sunnyokoro/GenericSOAPExecutor</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/sunnyokoro/GenericSOAPExecutor</PackageProjectUrl>
+    <PackageTags>Generic, SpacInfotech, Sunday Okoro, .NetCore, SOAP, Caller, Executetor</PackageTags>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageIconUrl>https://optimusinfo-wpengine.netdna-ssl.com/wp-content/uploads/2015/02/API-icon.png</PackageIconUrl>
+    <FileVersion>1.0.0.0</FileVersion>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <Version>1.0.2</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RestSharp" Version="106.6.10" />
+  </ItemGroup>
+
+</Project>

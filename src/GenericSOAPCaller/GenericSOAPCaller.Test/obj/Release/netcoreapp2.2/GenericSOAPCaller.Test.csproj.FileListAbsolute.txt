@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\GenericSOAPExecutor\src\GenericSOAPCaller\GenericSOAPCaller.Test\obj\Release\netcoreapp2.2\GenericSOAPCaller.Test.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\GenericSOAPExecutor\src\GenericSOAPCaller\GenericSOAPCaller.Test\obj\Release\netcoreapp2.2\GenericSOAPCaller.Test.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\GenericSOAPExecutor\src\GenericSOAPCaller\GenericSOAPCaller.Test\obj\Release\netcoreapp2.2\GenericSOAPCaller.Test.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\GenericSOAPExecutor\src\GenericSOAPCaller\GenericSOAPCaller.Test\obj\Release\netcoreapp2.2\GenericSOAPCaller.Test.AssemblyInfo.cs
+C:\Users\HP\source\repos\GenericSOAPExecutor\src\GenericSOAPCaller\GenericSOAPCaller.Test\bin\Release\netcoreapp2.2\GenericSOAPExecutor.Test.deps.json
+C:\Users\HP\source\repos\GenericSOAPExecutor\src\GenericSOAPCaller\GenericSOAPCaller.Test\bin\Release\netcoreapp2.2\GenericSOAPExecutor.Test.runtimeconfig.json
+C:\Users\HP\source\repos\GenericSOAPExecutor\src\GenericSOAPCaller\GenericSOAPCaller.Test\bin\Release\netcoreapp2.2\GenericSOAPExecutor.Test.runtimeconfig.dev.json
+C:\Users\HP\source\repos\GenericSOAPExecutor\src\GenericSOAPCaller\GenericSOAPCaller.Test\bin\Release\netcoreapp2.2\GenericSOAPExecutor.Test.dll
+C:\Users\HP\source\repos\GenericSOAPExecutor\src\GenericSOAPCaller\GenericSOAPCaller.Test\bin\Release\netcoreapp2.2\GenericSOAPExecutor.Test.pdb
+C:\Users\HP\source\repos\GenericSOAPExecutor\src\GenericSOAPCaller\GenericSOAPCaller.Test\bin\Release\netcoreapp2.2\GenericSOAPCaller.dll
+C:\Users\HP\source\repos\GenericSOAPExecutor\src\GenericSOAPCaller\GenericSOAPCaller.Test\bin\Release\netcoreapp2.2\GenericSOAPCaller.pdb
+C:\Users\HP\source\repos\GenericSOAPExecutor\src\GenericSOAPCaller\GenericSOAPCaller.Test\obj\Release\netcoreapp2.2\GenericSOAPCaller.Test.csproj.CopyComplete
+C:\Users\HP\source\repos\GenericSOAPExecutor\src\GenericSOAPCaller\GenericSOAPCaller.Test\obj\Release\netcoreapp2.2\GenericSOAPExecutor.Test.dll
+C:\Users\HP\source\repos\GenericSOAPExecutor\src\GenericSOAPCaller\GenericSOAPCaller.Test\obj\Release\netcoreapp2.2\GenericSOAPExecutor.Test.pdb

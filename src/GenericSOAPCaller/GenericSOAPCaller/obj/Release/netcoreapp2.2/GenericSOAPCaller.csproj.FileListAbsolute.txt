@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\GenericSOAPExecutor\src\GenericSOAPCaller\GenericSOAPCaller\bin\Release\netcoreapp2.2\GenericSOAPCaller.deps.json
+C:\Users\HP\source\repos\GenericSOAPExecutor\src\GenericSOAPCaller\GenericSOAPCaller\bin\Release\netcoreapp2.2\GenericSOAPCaller.dll
+C:\Users\HP\source\repos\GenericSOAPExecutor\src\GenericSOAPCaller\GenericSOAPCaller\bin\Release\netcoreapp2.2\GenericSOAPCaller.pdb
+C:\Users\HP\source\repos\GenericSOAPExecutor\src\GenericSOAPCaller\GenericSOAPCaller\obj\Release\netcoreapp2.2\GenericSOAPCaller.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\GenericSOAPExecutor\src\GenericSOAPCaller\GenericSOAPCaller\obj\Release\netcoreapp2.2\GenericSOAPCaller.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\GenericSOAPExecutor\src\GenericSOAPCaller\GenericSOAPCaller\obj\Release\netcoreapp2.2\GenericSOAPCaller.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\GenericSOAPExecutor\src\GenericSOAPCaller\GenericSOAPCaller\obj\Release\netcoreapp2.2\GenericSOAPCaller.AssemblyInfo.cs
+C:\Users\HP\source\repos\GenericSOAPExecutor\src\GenericSOAPCaller\GenericSOAPCaller\obj\Release\netcoreapp2.2\GenericSOAPCaller.dll
+C:\Users\HP\source\repos\GenericSOAPExecutor\src\GenericSOAPCaller\GenericSOAPCaller\obj\Release\netcoreapp2.2\GenericSOAPCaller.pdb
